@@ -1,3 +1,14 @@
 [
-  {"ig_media_id": "18024300866753003", "ig_permalink": "https://www.instagram.com/reel/DgApZpfT3V2/", "error": "YouTube rate-limited the upload. Wait a minute and run the action again.", "at": "2026-11-28T06:47:02Z"}
+  {
+    "ig_media_id": "18024300866753003",
+    "ig_permalink": "https://www.instagram.com/reel/DgApZpfT3V2/",
+    "error": "YouTube rate-limited the upload. Wait a minute and run the action again.",
+    "at": "2026-11-28T06:47:02Z"
+  },
+  {
+    "ig_media_id": "18024300866753003",
+    "ig_permalink": "https://www.instagram.com/reel/DgApZpfT3V2/",
+    "error": "YouTube rate-limited the upload. Wait a minute and run the action again. Check YouTube Studio first if the previous attempt may have finished.",
+    "at": "2026-11-28T08:50:00Z"
+  }
 ]
